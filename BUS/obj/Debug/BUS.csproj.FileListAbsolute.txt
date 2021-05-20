@@ -1,0 +1,12 @@
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\BUS\bin\Debug\BUS.dll
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\BUS\bin\Debug\BUS.pdb
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\BUS\bin\Debug\DAO.dll
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\BUS\bin\Debug\DTO.dll
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\BUS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\BUS\bin\Debug\MySql.Data.dll
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\BUS\bin\Debug\DAO.pdb
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\BUS\bin\Debug\DTO.pdb
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\BUS\obj\Debug\BUS.dll
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\BUS\obj\Debug\BUS.pdb
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\BUS\bin\Debug\BUS.dll.config

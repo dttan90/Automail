@@ -1,0 +1,10 @@
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\DAO\bin\Debug\DAO.dll
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\DAO\bin\Debug\DAO.pdb
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\DAO\bin\Debug\DTO.dll
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\DAO\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\DAO\bin\Debug\MySql.Data.dll
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\DAO\bin\Debug\DTO.pdb
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\DAO\obj\Debug\DAO.dll
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\DAO\obj\Debug\DAO.pdb
+C:\Users\0138429\Source\Repos\AveryDennison\Automail\DAO\bin\Debug\DAO.dll.config
